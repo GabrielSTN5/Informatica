@@ -1,5 +1,5 @@
 # Informatica
-Olá! Sou o aluno **Gabriel Santana da Silva** do 1º Semestre de Logística da **FATEC SJC** , e aqui farei um teste sobre as funções do GitHub.
+Olá! Sou o aluno **Gabriel Santana da Silva** do 1º Semestre de Logística da **FATEC SJC**, e aqui farei um teste sobre as funções do GitHub.
 
 Primeiramente, temos a função dos emojis: 	:grinning: 	:wink: 	:thought_balloon:
 
